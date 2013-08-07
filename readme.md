@@ -1,0 +1,1 @@
+jQuery Mobile (1.3.2) is a touch-optimized HTML5 UI framework designed to make sites and apps that are accessible on all popular smartphone, tablet and desktop devices.
